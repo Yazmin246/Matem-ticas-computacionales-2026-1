@@ -1,3 +1,4 @@
 primer  cambio en code 
 
 # este es el primer conflico 2 
+#conflicto 1 
